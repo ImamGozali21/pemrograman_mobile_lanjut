@@ -1,0 +1,84 @@
+{
+    "result": [
+        {
+            "id": 1,
+            "first_name": "Imam",
+            "last_name": "Gozali Sya'ban",
+            "number_phone": "+62 821 4321 6547",
+            "gender": "Male",
+            "ip_address": "10.234.12.30"
+        },
+        {
+            "id": 2,
+            "first_name": "Peter",
+            "last_name": "Parker",
+            "number_phone": "+62 821 9721 8463",
+            "gender": "Male",
+            "ip_address": "19.232.32.99"
+        },
+        {
+            "id": 3,
+            "first_name": "Taylor",
+            "last_name": "Swift",
+            "number_phone": "+62 822 4781 3510",
+            "gender": "Female",
+            "ip_address": "17.234.12.30"
+        },
+        {
+            "id": 4,
+            "first_name": "Maman",
+            "last_name": "Racing",
+            "number_phone": "+62 852 4321 6547",
+            "gender": "Male",
+            "ip_address": "88.543.12.30"
+        },
+        {
+            "id": 5,
+            "first_name": "Sopo",
+            "last_name": "Yudhoyono",
+            "number_phone": "+62 821 0987 5428",
+            "gender": "Male",
+            "ip_address": "65.234.33.30"
+        },
+        {
+            "id": 6,
+            "first_name": "Mega",
+            "last_name": "Chann",
+            "number_phone": "+62 821 0832 7289",
+            "gender": "Female",
+            "ip_address": "14.234.12.49"
+        },
+        {
+            "id": 7,
+            "first_name": "Grace",
+            "last_name": "Natalie",
+            "number_phone": "+62 821 9847 4320",
+            "gender": "Female",
+            "ip_address": "30.368.12.30"
+        },
+        {
+            "id": 8,
+            "first_name": "Susi",
+            "last_name": "Susanti",
+            "number_phone": "+62 823 7569 6547",
+            "gender": "Female",
+            "ip_address": "18.133.90.30"
+        },
+        {
+            "id": 9,
+            "first_name": "I am",
+            "last_name": "Groot",
+            "number_phone": "+62 822 0965 6567",
+            "gender": "Male",
+            "ip_address": "11.234.12.40"
+        },
+        {
+            "id": 10,
+            "first_name": "Paul",
+            "last_name": "Walker",
+            "number_phone": "+62 821 8673 6082",
+            "gender": "Male",
+            "ip_address": "18.234.34.99"
+        }
+    ]
+}
